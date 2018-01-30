@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 33df33dd663a1e24aa086ec14c06daee
+timeCreated: 1506418844
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BackgroundMountainPurple
+    21300002: BackgroundMountainBlue
+    21300004: ForgroundDirt
+    21300006: Platform1
+    21300008: Platform2
+    21300010: Platform3
+    21300012: Platform4
+    21300014: BackgroundMountainOrange
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 5
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackgroundMountainPurple
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 512
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -242, y: 45.5}
+        - {x: -256, y: 19.5}
+        - {x: -256, y: -45.5}
+        - {x: 256, y: -45.5}
+        - {x: 256, y: 22.5}
+        - {x: 242, y: 45.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundMountainBlue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 512
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256, y: 46.5}
+        - {x: -256, y: -46.5}
+        - {x: 256, y: -46.5}
+        - {x: 256, y: 27.5}
+        - {x: 245, y: 46.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ForgroundDirt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 512
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256, y: 29}
+        - {x: -256, y: -29}
+        - {x: 256, y: -29}
+        - {x: 256, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 29.5}
+        - {x: -12, y: 15.5}
+        - {x: -9, y: -29.5}
+        - {x: 9, y: -29.5}
+        - {x: 12, y: 0.5}
+        - {x: 12, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 113
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 29.5}
+        - {x: -12, y: 26.5}
+        - {x: -10, y: 24.5}
+        - {x: -4, y: -29.5}
+        - {x: 10, y: -29.5}
+        - {x: 12, y: 11.5}
+        - {x: 12, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 113
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 29.5}
+        - {x: -10.5, y: 12.5}
+        - {x: -8.5, y: -29.5}
+        - {x: 9.5, y: -29.5}
+        - {x: 10.5, y: -11.5}
+        - {x: 10.5, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Platform4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 29.5}
+        - {x: -9.5, y: 5.5}
+        - {x: -8.5, y: -29.5}
+        - {x: 7.5, y: -29.5}
+        - {x: 9.5, y: -11.5}
+        - {x: 9.5, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackgroundMountainOrange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 512
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
